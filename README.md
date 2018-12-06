@@ -1,2 +1,0 @@
-# rentcalculator
-Created with CodeSandbox
